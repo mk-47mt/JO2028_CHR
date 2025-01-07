@@ -1,9 +1,9 @@
 <?php
 // Paramètres de connexion à la base de données
-$host = "localhost";
-$dbname = "jo-2028-charni-louay";
-$username = "root";
-$password = "root";
+$host = "";
+$dbname = "";
+$username = "";
+$password = "";
 
 try {
     // Création d'une nouvelle connexion PDO
